@@ -1,0 +1,5 @@
+[0309/195620.588:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0313/132928.487:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0313/132928.783:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0314/014152.578:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0314/014152.664:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
