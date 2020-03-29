@@ -8,7 +8,15 @@ Insurance coverage and mental health have been a huge top in the U.S. as of late
 ## Methodology
 
 * Data was scraped fron the CDC's BRFSS via a combination of Socrate and request API's
-Logistical regressions
+* Logistical regressions were used to explore the relationship between:
+    * mental health factors and insured status (insured vs uninsured)
+    * mental health factors and a recent lack of insurance during the past 12 months
+* A suite of classifiers were utilized to identify an optimal classifier for subsequent hyperparameter tuning.
+    This suite included:
+        * LogisticRegression
+        * XGBClassifier
+        * AdaBoostClassifier
+        * GradientBoostingClassifier
 
 ## Findings
 
@@ -25,5 +33,5 @@ Logistical regressions
 * Incentivize response
     * tax credit of $50 to $100
         * may increase participant pool
-        * research to gauge the need for an incentive should be done to determin feasbility and need
+        * additional research to gauge the need and feasiblity of an incentive should be done
 * Complete an examination of disparities between perceived general health in relation to recent physical/mental health issues
