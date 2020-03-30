@@ -72,10 +72,10 @@ Overall, BRFSS data was of a lower quality, making it hard to create acceptably 
 
 * slide deck (BRFSS Psychopathology and Insurance)
 * audio/visual walkthrough (https://drive.google.com/open?id=1YJX1PsgEvbYVLGlyRF2OLoT1w7F_c_Yj)
-
-    
-3. A blog post showcasing your project, with a focus on your methodology and findings. A well-written blog post about your project will probably be the first thing most recruiters and hiring managers see, so really take the time to polish up this blog post and explain your project, methodology, and findings/business recommendations in a clear, concise manner. This blog post should cover everything important about your project, but remember that your audience for this blog post will largely be non-technical. Your blog post should definitely contain visualizations, code snippets, and anything else you find important, but don't get bogged down trying to explain highly technical concepts. Your blog post should provide a link to the Github repository containing your actual project, for people that want to really dive into the technical aspects of your project.
-
+* technical blog
+* Data_Cleaning notebook
+* Data_Gathering notebook
+* EDA_and_Classification notebook
 
 ## Blog Post Link
-
+https://neji128.github.io/under_construction
