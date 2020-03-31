@@ -34,7 +34,7 @@ Overall, BRFSS data was of a lower quality, making it hard to create acceptably 
 * train-test-split is included in the function. 
 * random_state needs to be the same across classifiers for uniformity across classifiers
 
-### on_the_bubble
+### Data_Cleaning: on_the_bubble
 
 *The comment out boxes are code used to customize the questions you want to focus on within the BRFSS data sets.
     * Feel free to remove or optimize this code as you see fit. 
