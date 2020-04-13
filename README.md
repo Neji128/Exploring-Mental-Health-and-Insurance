@@ -1,6 +1,3 @@
-
-#  Final Project Requirements
-
 ## NOTE: Data_Gathering notebook must be run first to aquire data files as Git cannot support such large files in its repositories.
 
 ## Introduction
